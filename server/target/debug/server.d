@@ -1,0 +1,1 @@
+/home/ziion/udemy/rust_projects/server/target/debug/server: /home/ziion/udemy/rust_projects/server/src/http/method.rs /home/ziion/udemy/rust_projects/server/src/http/mod.rs /home/ziion/udemy/rust_projects/server/src/http/request.rs /home/ziion/udemy/rust_projects/server/src/main.rs /home/ziion/udemy/rust_projects/server/src/server.rs
